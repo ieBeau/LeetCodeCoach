@@ -1,0 +1,30 @@
+[x] - Fix timer. Have a global variable that is easily accessed anywhere
+[x] - Fix hyperlinks on click
+[] - Change values on user switch
+[] - Change values on user delete (Update Roadmap and Tables)
+[x] - Move Title to topbar
+[x] - Move Videos to topbar
+[x] - Fix topbar if user unlocks username while in topic
+[x] - Move Back Button to topbar
+[x] - Add delete button for each user question complete
+[x] - Update Roadmap Cards on delete
+[x] - Update UserTable on delete
+[x] - Update SystemTable on delete
+[x] - Allow user to complete question during the same instance if user creation
+[x] - Create formula to calculate graphs topic percentage for user
+[x] - Remove help from User completed table
+[x] - Update graph on each completion
+[x] - Add best time next to each question
+[x] - Add date completed to User completed questions
+[x] - Add video teachings for each topic
+[x] - Grab the Roadmap node and update it's progress internally
+[x] - Roadmap, make sure that hoverover returns the correct color
+[x] - Add delete all current user data button
+[x] - Add delete all data button
+[x] - Change color of Topic Buttons
+[x] - Create a Play/Pause/Stop indicator next to the timer
+[x] - Add hyperlink to LeetCode, if user doesn't login with a correct user
+
+
+[x] - Clean the code
+[] - Organize the structure
