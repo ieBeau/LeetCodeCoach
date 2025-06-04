@@ -1,0 +1,92 @@
+{
+    "0": {
+        "title": "Big-O Notation",
+        "description": "Big-O notation is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity.",
+        "url": "https://www.youtube.com/watch?v=XMUe3zFhM5c",
+        "data": []
+    },
+    "1": {
+        "title": "Data Structures Explained",
+        "description": "Data structures are a way of organizing and storing data so that it can be accessed and modified efficiently.",
+        "url": "https://www.youtube.com/watch?v=RYT08CaYq6A",
+        "data": []
+    },
+    "2": {
+        "title": "Data Structures and Algorithms",
+        "description": "Data structures are a way of organizing and storing data so that it can be accessed and modified efficiently.",
+        "url": "https://www.youtube.com/watch?v=CBYHwZcbD-s",
+        "data": []
+    },
+    "3": {
+        "title": "Algorithms",
+        "description": "An algorithm is a step-by-step procedure for calculations, data processing, and automated reasoning tasks.",
+        "url": "",
+        "data": [
+            {
+                "title": "Breadth First Search (BFS)",
+                "description": "Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures.",
+                "url": "https://www.youtube.com/watch?v=7Cox-J7onXw"
+            },
+            {
+                "title": "Depth First Search (DFS)",
+                "description": "Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures.",
+                "url": "https://www.youtube.com/watch?v=by93qH4ACxo"
+            },
+            {
+                "Title": "Recursion",
+                "description": "Recursion is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem.",
+                "url": "https://www.youtube.com/watch?v=ivl5-snqul8"
+            },
+            {
+                "title": "Dijkstra's Algorithm",
+                "description": "Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a graph.",
+                "url": "https://www.youtube.com/watch?v=pSqmAO-m7Lk"
+            },
+            {
+                "title": "Dynamic Programming",
+                "description": "Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems.",
+                "url": "https://www.youtube.com/watch?v=Hdr64lKQ3e4"
+            },
+            {
+                "title": "Greedy Algorithms",
+                "description": "Greedy algorithms are a class of algorithms that make locally optimal choices at each stage with the hope of finding a global optimum.",
+                "url": "https://www.youtube.com/watch?v=bC7o8P_Ste4"
+            },
+            {
+                "title": "Backtracking",
+                "description": "Backtracking is an algorithmic technique for solving problems incrementally, one piece at a time.",
+                "url": "https://www.youtube.com/watch?v=A80YzvNwqXA"
+            },
+            {
+                "title": "Quick Sort",
+                "description": "Quick sort is an efficient sorting algorithm that uses divide-and-conquer principles.",
+                "url": "https://www.youtube.com/watch?v=Vtckgz38QHs"
+            },
+            {
+                "Title": "Bubble Sort",
+                "description": "Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.",
+                "url": "https://www.youtube.com/watch?v=Dv4qLJcxus8"
+            },
+            {
+                "title": "Merge Sort",
+                "description": "Merge sort is an efficient, stable, comparison-based, divide and conquer sorting algorithm.",
+                "url": "https://www.youtube.com/watch?v=3j0SWDX4AtU"
+            },
+            {
+                "title": "Heap Sort",
+                "description": "Heap sort is a comparison-based sorting technique based on a binary heap data structure.",
+                "url": "https://www.youtube.com/watch?v=t0Cq6tVNRBA"
+            },
+            {
+                "title": "Insertion Sort",
+                "description": "Insertion sort is a simple sorting algorithm that builds a sorted array one element at a time.",
+                "url": "https://www.youtube.com/watch?v=8mJ-OhcfpYg"
+            },
+            {
+                "title": "Union Find",
+                "description": "Union-Find is a data structure that keeps track of elements that are split into one or more disjoint sets.",
+                "url": "https://www.youtube.com/watch?v=ayW5B2W9hfo"
+            }
+        ]
+    }
+}

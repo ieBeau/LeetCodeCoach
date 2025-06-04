@@ -3,48 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\components\\cards\\topiccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\components\\cards\\topiccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\components\\cards\\timercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\components\\cards\\timercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\components\\tables\\tablesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\components\\tables\\tablesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\components\\panels\\tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\components\\panels\\tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\components\\panels\\videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\components\\panels\\videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\controllers\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\controllers\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\controllers\\sqlite\\sqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\controllers\\sqlite\\sqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\leetcodecoach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\components\\tables\\tableuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\components\\tables\\tableuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|c:\\users\\iebeau\\school\\leetcodecoach\\leetcodecoach\\leetcodecoach\\components\\buttons\\buttonvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDFEC1B-F85F-4C5D-8B88-DC198AC7564E}|LeetCodeCoach\\LeetCodeCoach.csproj|solutionrelative:leetcodecoach\\components\\buttons\\buttonvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,141 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tables.cs",
-              "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Panels\\Tables.cs",
-              "RelativeDocumentMoniker": "LeetCodeCoach\\Components\\Panels\\Tables.cs",
-              "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Panels\\Tables.cs",
-              "RelativeToolTip": "LeetCodeCoach\\Components\\Panels\\Tables.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAxwCYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T19:31:43.265Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TableSystem.cs",
-              "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Tables\\TableSystem.cs",
-              "RelativeDocumentMoniker": "LeetCodeCoach\\Components\\Tables\\TableSystem.cs",
-              "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Tables\\TableSystem.cs",
-              "RelativeToolTip": "LeetCodeCoach\\Components\\Tables\\TableSystem.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAQwKUAAAAXAAAAAAAAAA==",
+              "Title": "ButtonVideo.cs",
+              "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Buttons\\ButtonVideo.cs",
+              "RelativeDocumentMoniker": "LeetCodeCoach\\Components\\Buttons\\ButtonVideo.cs",
+              "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Buttons\\ButtonVideo.cs",
+              "RelativeToolTip": "LeetCodeCoach\\Components\\Buttons\\ButtonVideo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T19:30:59.221Z"
+              "WhenOpened": "2025-06-04T19:07:34.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TimerCard.cs",
-              "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Cards\\TimerCard.cs",
-              "RelativeDocumentMoniker": "LeetCodeCoach\\Components\\Cards\\TimerCard.cs",
-              "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Cards\\TimerCard.cs",
-              "RelativeToolTip": "LeetCodeCoach\\Components\\Cards\\TimerCard.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAQwLcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T19:17:32.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Controllers\\Data\\Data.cs",
-              "RelativeDocumentMoniker": "LeetCodeCoach\\Controllers\\Data\\Data.cs",
-              "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Controllers\\Data\\Data.cs",
-              "RelativeToolTip": "LeetCodeCoach\\Controllers\\Data\\Data.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:39:36.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Videos.cs",
-              "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Panels\\Videos.cs",
-              "RelativeDocumentMoniker": "LeetCodeCoach\\Components\\Panels\\Videos.cs",
-              "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Panels\\Videos.cs",
-              "RelativeToolTip": "LeetCodeCoach\\Components\\Panels\\Videos.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:58:01.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TopicCard.cs",
-              "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Cards\\TopicCard.cs",
-              "RelativeDocumentMoniker": "LeetCodeCoach\\Components\\Cards\\TopicCard.cs",
-              "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Cards\\TopicCard.cs",
-              "RelativeToolTip": "LeetCodeCoach\\Components\\Cards\\TopicCard.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAmwGEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T00:42:29.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SQLite.cs",
-              "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Controllers\\SQLite\\SQLite.cs",
-              "RelativeDocumentMoniker": "LeetCodeCoach\\Controllers\\SQLite\\SQLite.cs",
-              "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Controllers\\SQLite\\SQLite.cs",
-              "RelativeToolTip": "LeetCodeCoach\\Controllers\\SQLite\\SQLite.cs",
-              "ViewState": "AgIAAFUBAAAAAAAAAAAQwGIBAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T20:24:58.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TableUser.cs",
-              "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Tables\\TableUser.cs",
-              "RelativeDocumentMoniker": "LeetCodeCoach\\Components\\Tables\\TableUser.cs",
-              "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Components\\Tables\\TableUser.cs",
-              "RelativeToolTip": "LeetCodeCoach\\Components\\Tables\\TableUser.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T01:05:36.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "LeetCodeCoach\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Form1.Designer.cs",
-              "RelativeToolTip": "LeetCodeCoach\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T00:46:14.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Form1.cs",
               "RelativeDocumentMoniker": "LeetCodeCoach\\Form1.cs",
               "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Form1.cs",
               "RelativeToolTip": "LeetCodeCoach\\Form1.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAQwKcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAP0AAAAAAAAAAAArwBABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T02:50:17.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Form1.cs",
               "RelativeDocumentMoniker": "LeetCodeCoach\\Form1.cs",
               "ToolTip": "C:\\Users\\IeBeau\\School\\LeetCodeCoach\\LeetCodeCoach\\LeetCodeCoach\\Form1.cs [Design]",
               "RelativeToolTip": "LeetCodeCoach\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T02:49:14.979Z"
+              "WhenOpened": "2025-04-27T02:49:14.979Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -6,7 +6,21 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <!-- <ApplicationIcon>bin\Debug\net8.0-windows\Assets\LeetCode_logo.ico</ApplicationIcon> -->
+    <ApplicationIcon>Resources\Images\LeetCode_logo.ico</ApplicationIcon>
+    <AssemblyName>$(MSBuildProjectName)</AssemblyName>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="LeetCode.db" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0-windows\Assets\LeetCode_logo.ico" />
+    <Content Include="LeetCode.db">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="GraphQL.Client" Version="6.1.0" />

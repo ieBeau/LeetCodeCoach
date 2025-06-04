@@ -13,7 +13,14 @@ namespace LeetCodeCoach.Controllers.SQLite
 
         public SQLite()
         {
-            DatabasePath = "LeetCode.db";
+            string appDataFolder = Path.Combine(
+                Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData),
+                "LeetCodeCoach"
+            );
+
+            Directory.CreateDirectory(appDataFolder);
+
+            DatabasePath = Path.Combine(appDataFolder, "LeetCode.db");
 
             using (var connection = new SqliteConnection($"Data Source={DatabasePath}"))
             {

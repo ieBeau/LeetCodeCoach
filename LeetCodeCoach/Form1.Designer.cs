@@ -44,6 +44,7 @@ namespace LeetCodeCoach
             MinimumSize = new Size(800, 300);
             Name = "Form1";
             Text = "LeetCode Coach";
+            Load += Form1_Load;
             ResumeLayout(false);
         }
 

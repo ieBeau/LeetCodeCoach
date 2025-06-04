@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LeetCodeCoach",
-    "\\LeetCodeCoach\\bin\\Debug",
-    "\\LeetCodeCoach\\bin\\Debug\\net8.0-windows",
-    "\\LeetCodeCoach\\bin\\Debug\\net8.0-windows\\Data"
+    "\\LeetCodeCoachInstaller",
+    "\\LeetCodeCoachInstaller\\Debug",
+    "\\LeetCodeCoachInstaller\\Release"
   ],
-  "SelectedNode": "\\LeetCodeCoach\\Form1.cs",
+  "SelectedNode": "\\LeetCodeCoach.sln",
   "PreviewInSolutionExplorer": false
 }

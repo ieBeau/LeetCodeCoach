@@ -20,6 +20,7 @@ namespace LeetCodeCoach.Components.Buttons
         {
             string imagePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Assets", "video.png");
 
+
             Image = Image.FromFile(imagePath);
             Bitmap = new Bitmap(Image);
 

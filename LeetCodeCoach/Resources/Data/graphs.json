@@ -1,0 +1,82 @@
+{
+    "Data Structures": {
+        "Arrays & Hash Tables": {
+            "Tags": [
+                "Array",
+                "Hash Table"
+            ]
+        },
+        "Strings": {
+            "Tags": [
+                "String"
+            ]
+        },
+        "Trees": {
+            "Tags": [
+                "Tree",
+                "Trie",
+                "Binary Tree"
+            ]
+        },
+        "Stacks & Queues": {
+            "Tags": [
+                "Stack",
+                "Queue",
+                "Priority Queue"
+            ]
+        },
+        "Linked Lists": {
+            "Tags": [
+                "Linked List"
+            ]
+        },
+        "Graphs": {
+            "Tags": [
+                "Graph",
+                "Matrix"
+            ]
+        }
+    },
+    "Algorithms": {
+        "Dynamic Programming": {
+            "Tags": [
+                "Dynamic Programming"
+            ]
+        },
+        "Sort": {
+            "Tags": [
+                "Sorting",
+                "Merge Sort",
+                "Bubble Sort",
+                "Insertion Sort"
+            ]
+        },
+        "Search": {
+            "Tags": [
+                "Binary Search",
+                "Breadth-First Search",
+                "Depth-First Search",
+                "Union Find",
+                "Two Pointers",
+                "Sliding Window"
+            ]
+        },
+        "Recursion": {
+            "Tags": [
+                "Recursion",
+                "Backtracking"
+            ]
+        },
+        "Greedy": {
+            "Tags": [
+                "Greedy"
+            ]
+        },
+        "Math": {
+            "Tags": [
+                "Bit Manipulation",
+                "Math"
+            ]
+        }
+    }
+}

@@ -22,7 +22,7 @@ namespace LeetCodeCoach
         public DateTime CurrentQuestionTime = DateTime.UtcNow;
 
         public string CurrentTopicName { get; set; } = string.Empty;
-        
+
         public string CurrentTopicId { get; set; } = string.Empty;
 
         public Question? CurrentQuestion { get; set; }
@@ -34,9 +34,9 @@ namespace LeetCodeCoach
         public List<Question> CompletedTopicQuestions { get; private set; } = new List<Question>();
 
         public Dictionary<string, Dictionary<string, float>> UserScores { get; private set; } = new Dictionary<string, Dictionary<string, float>>();
-        
+
         private static Dictionary<int, int> QuestionCompleteCount = Roadmap.QuestionCompleteCount;
-        
+
         public Roadmap? Roadmap { get; private set; }
 
         public Tables? Tables { get; private set; }
@@ -66,8 +66,8 @@ namespace LeetCodeCoach
 
             UpdateData();
         }
-        
-        public void  InitializeLayout()
+
+        public void InitializeLayout()
         {
             Topbar = new Topbar();
             Settings = new Settings();
@@ -141,7 +141,7 @@ namespace LeetCodeCoach
 
         private void UserTableAdd(Question question)
         {
-            
+
             DataGridView? DataViewUser = TablesPanel?.Controls.Find("DataGridUser", true)[0] as DataGridView;
 
             if (DataViewUser == null) return;
@@ -151,11 +151,11 @@ namespace LeetCodeCoach
                 Value = question.title,
                 Tag = question.url
             };
-            
+
             linkCell.LinkColor = Color.White;
             linkCell.ActiveLinkColor = Color.White;
             linkCell.VisitedLinkColor = Color.White;
-            
+
             // Update User Table
             DataViewUser.Rows.Insert(0, new DataGridViewRow());
             DataViewUser.Rows[0].Cells[0].Value = question.id;
@@ -165,7 +165,7 @@ namespace LeetCodeCoach
             DataViewUser.Rows[0].Cells[4].Value = question.time;
             DataViewUser.Rows[0].Cells[5].Value = question.date;
             DataViewUser.Rows[0].Cells[6].Value = "🚫";
-            
+
             if (question.difficulty == "Easy") DataViewUser.Rows[0].Cells[3].Style.ForeColor = Color.Green;
             else if (question.difficulty == "Medium") DataViewUser.Rows[0].Cells[3].Style.ForeColor = Color.Orange;
             else if (question.difficulty == "Hard") DataViewUser.Rows[0].Cells[3].Style.ForeColor = Color.Red;
@@ -180,9 +180,9 @@ namespace LeetCodeCoach
             float score = QuestionsService.AddScore(question);
 
             CompletedQuestions.Add(question);
-            
+
             Topbar?.UpdateIndicators();
-            
+
             Roadmap?.AddCardValue(question);
 
             Roadmap?.UpdateValues(question, score);
@@ -266,6 +266,11 @@ namespace LeetCodeCoach
                     }
                 }
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
