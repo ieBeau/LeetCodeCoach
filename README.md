@@ -36,8 +36,9 @@ LeetCodeCoachInstaller > Debug > LeetCodeCoachInstaller.msi.
 ---
 1) Open and enjoy!
 
+
 ![Main Menu](LeetCodeCoach/Resources/Images/Screenshots/MainMenu.png)
 
 ![Topic Menu](LeetCodeCoach/Resources/Images/Screenshots/TopicMenu.png)
 
-<p align="center"><i><a href="https://neetcode.io/roadmap">Roadmap inspired by NeetCode 150.</a></i></p>
+<p align="center"><i><a href="https://neetcode.io/roadmap" target="_blank">Roadmap inspired by NeetCode 150.</a></i></p>
