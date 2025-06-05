@@ -1,3 +1,6 @@
+<p align="center"><b>Welcome to LeetCode Coach!</b></p>
+---
+
 🚀 Getting Started
 ---
 You can install the application by either cloning the repository (recommended for developers) or downloading the ZIP file (quick and easy for all users).
@@ -37,3 +40,5 @@ LeetCodeCoachInstaller > Debug > LeetCodeCoachInstaller.msi.
 ![Main Menu](LeetCodeCoach/Resources/Images/Screenshots/MainMenu.png)
 
 ![Topic Menu](LeetCodeCoach/Resources/Images/Screenshots/TopicMenu.png)
+
+<p align="center"><i>Roadmap inspired by NeetCode 150.</i></p>
