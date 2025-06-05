@@ -2,7 +2,7 @@
 ---
 You can install the application by either cloning the repository (recommended for developers) or downloading the ZIP file (quick and easy for all users).
 
-✅ Option 1: Clone the Repository (Recommended)
+✅ Option 1: Clone the Repository (Recommended)  
 📌 Requires Git
 ---
 Open your terminal or command prompt.
@@ -15,7 +15,7 @@ Run the following command:
 git clone https://github.com/iebeau/LeetCodeCoach.git && cd LeetCodeCoach/LeetCodeCoachInstaller/Debug && msiexec /i LeetCodeCoachInstaller.msi
 ```
 
-📦 Option 2: Download as ZIP
+📦 Option 2: Download as ZIP  
 ✔️ No Git Required
 ---
 Click the green "Code" button (top right).
