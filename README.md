@@ -7,11 +7,12 @@ You can install the application by either cloning the repository (recommended fo
 ---
 Open your terminal or command prompt.
 
-Run the following commands:
+Navigate to a directory that you wish to clone this repo to.
+
+Run the following command:
 
 ```sh
-git clone https://github.com/iebeau/LeetCodeCoach.git
-cd LeetCodeCoach
+git clone https://github.com/iebeau/LeetCodeCoach.git && cd LeetCodeCoach/LeetCodeCoachInstaller/Debug && msiexec /i LeetCodeCoachInstaller.msi
 ```
 
 📦 Option 2: Download as ZIP
@@ -28,8 +29,7 @@ Once downloaded, extract the ZIP to any folder on your computer.
 Open the folder in File Explorer.
 
 Navigate to:
-LeetCodeCoachInstaller > Debug
-Locate the installer file: LeetCodeCoachInstaller.msi.
+LeetCodeCoachInstaller > Debug > LeetCodeCoachInstaller.msi.
 
 Double-click it to start the installation.
 
