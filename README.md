@@ -32,3 +32,8 @@ LeetCodeCoachInstaller > Debug > LeetCodeCoachInstaller.msi.
 
 🖥️ After Installation a shortcut will be placed on your Desktop.
 ---
+1) Open and enjoy!
+
+![Main Menu](LeetCodeCoach/Resources/Images/Screenshots/MainMenu.png)
+
+![Topic Menu](LeetCodeCoach/Resources/Images/Screenshots/TopicMenu.png)
