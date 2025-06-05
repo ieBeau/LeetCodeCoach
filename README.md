@@ -1,5 +1,4 @@
-<p align="center"><b>Welcome to LeetCode Coach!</b></p>
----
+<h1 align="center"><b>Welcome to LeetCode Coach!</b></h1>
 
 🚀 Getting Started
 ---
@@ -41,4 +40,4 @@ LeetCodeCoachInstaller > Debug > LeetCodeCoachInstaller.msi.
 
 ![Topic Menu](LeetCodeCoach/Resources/Images/Screenshots/TopicMenu.png)
 
-<p align="center"><i>Roadmap inspired by NeetCode 150.</i></p>
+<p align="center"><i><a href="https://neetcode.io/roadmap">Roadmap inspired by NeetCode 150.</a></i></p>
